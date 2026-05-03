@@ -1,75 +1,97 @@
-import { useState, useMemo, useEffect } from 'react'
-import { motion, AnimatePresence } from 'framer-motion'
+import { useState, useMemo, useEffect } from "react";
+import { motion, AnimatePresence } from "framer-motion";
 
 // Components
-import Navbar from './components/Navbar'
-import HeroSection from './components/HeroSection'
-import FilterBar from './components/FilterBar'
-import FeaturedSection from './components/FeaturedSection'
-import CoffeeCard from './components/CoffeeCard'
-import EmptyState from './components/EmptyState'
-import Footer from './components/Footer'
+import Navbar from "./components/Navbar";
+import HeroSection from "./components/HeroSection";
+import FilterBar from "./components/FilterBar";
+import FeaturedSection from "./components/FeaturedSection";
+import CoffeeCard from "./components/CoffeeCard";
+import EmptyState from "./components/EmptyState";
+import Footer from "./components/Footer";
 
 // Data & Hooks
-import coffeeShopsData from './data/coffeeShops.json'
-import { useDebounce } from './hooks/useDebounce'
+import rawData from "./data/coffeeShops.json";
+import { useDebounce } from "./hooks/useDebounce";
+import { normalizeAll } from "./utils/shopHelpers";
+
+// Normalisasi sekali di module level (tidak re-run setiap render)
+const coffeeShopsData = normalizeAll(rawData);
 
 // ─── Filter logic ──────────────────────────────────────────────────────────────
 function applyFilter(shops, filter) {
   switch (filter) {
-    case 'top_rated':
-      return shops.filter((s) => s.rating >= 4.5)
-    case 'trending':
-      return shops.filter((s) => s.reviewCount >= 700)
-    case 'workspace':
+    case "top_rated":
+      return shops.filter((s) => s.rating >= 4.5);
+    case "trending":
+      return shops.filter((s) => s.reviewCount >= 700);
+    case "workspace":
       return shops.filter((s) =>
-        s.category.some((c) => c.toLowerCase().includes('workspace'))
-      )
-    case 'local':
+        s.tags.some(
+          (t) =>
+            t.toLowerCase().includes("wifi") ||
+            t.toLowerCase().includes("coworking") ||
+            t.toLowerCase().includes("workspace"),
+        ),
+      );
+    case "local":
+      return shops.filter(
+        (s) =>
+          s.tags.some((t) => t.toLowerCase().includes("lokal")) ||
+          s.category.some(
+            (c) =>
+              c.toLowerCase().includes("lokal") ||
+              c.toLowerCase().includes("tradisional"),
+          ),
+      );
+    case "cheap":
+      return shops.filter((s) => s.priceRange === "$" || s.priceRange == null);
+    case "outdoor":
       return shops.filter((s) =>
-        s.category.some((c) => c.toLowerCase().includes('lokal') || c.toLowerCase().includes('tradisional'))
-      )
-    case 'cheap':
-      return shops.filter((s) => s.priceRange === '$')
-    case 'outdoor':
-      return shops.filter((s) =>
-        s.category.some((c) => c.toLowerCase().includes('outdoor')) ||
-        s.tags.some((t) => t.toLowerCase().includes('outdoor') || t.toLowerCase().includes('garden'))
-      )
+        s.tags.some(
+          (t) =>
+            t.toLowerCase().includes("outdoor") ||
+            t.toLowerCase().includes("garden") ||
+            t.toLowerCase().includes("rooftop"),
+        ),
+      );
     default:
-      return shops
+      return shops;
   }
 }
 
 // ─── Sort logic ────────────────────────────────────────────────────────────────
 function applySort(shops, sortBy) {
-  const copy = [...shops]
+  const copy = [...shops];
   switch (sortBy) {
-    case 'rating':
-      return copy.sort((a, b) => b.rating - a.rating)
-    case 'reviews':
-      return copy.sort((a, b) => b.reviewCount - a.reviewCount)
-    case 'name':
-      return copy.sort((a, b) => a.name.localeCompare(b.name, 'id'))
+    case "rating":
+      return copy.sort((a, b) => b.rating - a.rating);
+    case "reviews":
+      return copy.sort((a, b) => b.reviewCount - a.reviewCount);
+    case "name":
+      return copy.sort((a, b) =>
+        a.name.localeCompare(b.name, "id", { sensitivity: "base" }),
+      );
     default:
-      return copy
+      return copy;
   }
 }
 
 // ─── Search logic ──────────────────────────────────────────────────────────────
 function applySearch(shops, query) {
-  if (!query.trim()) return shops
-  const q = query.toLowerCase()
-  return shops.filter(
-    (s) =>
-      s.name.toLowerCase().includes(q) ||
-      s.tagline.toLowerCase().includes(q) ||
-      s.address.toLowerCase().includes(q) ||
-      s.district.toLowerCase().includes(q) ||
-      s.tags.some((t) => t.toLowerCase().includes(q)) ||
-      s.category.some((c) => c.toLowerCase().includes(q)) ||
-      s.mustTry.toLowerCase().includes(q)
-  )
+  if (!query.trim()) return shops;
+  const q = query.toLowerCase();
+  return shops.filter((s) => {
+    const fields = [
+      s.name,
+      s.address,
+      s.tagline,
+      s.mustTry,
+      ...(s.tags ?? []),
+      ...(s.category ?? []),
+    ];
+    return fields.some((f) => f && String(f).toLowerCase().includes(q));
+  });
 }
 
 // ─── Skeleton Card ─────────────────────────────────────────────────────────────
@@ -85,43 +107,43 @@ function SkeletonCard() {
         <div className="skeleton h-9 w-full rounded-xl mt-2" />
       </div>
     </div>
-  )
+  );
 }
 
 // ─── Main App ──────────────────────────────────────────────────────────────────
 export default function App() {
-  const [darkMode, setDarkMode]         = useState(true)
-  const [searchQuery, setSearchQuery]   = useState('')
-  const [activeFilter, setActiveFilter] = useState('all')
-  const [sortBy, setSortBy]             = useState('rating')
-  const [isLoading, setIsLoading]       = useState(true)
+  const [darkMode, setDarkMode] = useState(true);
+  const [searchQuery, setSearchQuery] = useState("");
+  const [activeFilter, setActiveFilter] = useState("all");
+  const [sortBy, setSortBy] = useState("rating");
+  const [isLoading, setIsLoading] = useState(true);
 
-  const debouncedSearch = useDebounce(searchQuery, 300)
+  const debouncedSearch = useDebounce(searchQuery, 300);
 
   // Simulate initial loading state for skeleton animation
   useEffect(() => {
-    const timer = setTimeout(() => setIsLoading(false), 900)
-    return () => clearTimeout(timer)
-  }, [])
+    const timer = setTimeout(() => setIsLoading(false), 900);
+    return () => clearTimeout(timer);
+  }, []);
 
   // Apply dark mode class to <html>
   useEffect(() => {
-    document.documentElement.classList.toggle('dark', darkMode)
-  }, [darkMode])
+    document.documentElement.classList.toggle("dark", darkMode);
+  }, [darkMode]);
 
   // Compute filtered + sorted + searched shops
   const processedShops = useMemo(() => {
-    let result = applyFilter(coffeeShopsData, activeFilter)
-    result = applySearch(result, debouncedSearch)
-    result = applySort(result, sortBy)
-    return result
-  }, [debouncedSearch, activeFilter, sortBy])
+    let result = applyFilter(coffeeShopsData, activeFilter);
+    result = applySearch(result, debouncedSearch);
+    result = applySort(result, sortBy);
+    return result;
+  }, [debouncedSearch, activeFilter, sortBy]);
 
   const handleReset = () => {
-    setSearchQuery('')
-    setActiveFilter('all')
-    setSortBy('rating')
-  }
+    setSearchQuery("");
+    setActiveFilter("all");
+    setSortBy("rating");
+  };
 
   return (
     <div className="min-h-screen bg-zinc-950 text-zinc-100 font-sans">
@@ -136,7 +158,7 @@ export default function App() {
       />
 
       {/* ── Featured / Top Picks ────────────────────────── */}
-      {!debouncedSearch && activeFilter === 'all' && (
+      {!debouncedSearch && activeFilter === "all" && (
         <FeaturedSection shops={coffeeShopsData} />
       )}
 
@@ -164,17 +186,19 @@ export default function App() {
               <span className="text-xs text-zinc-500 font-semibold tracking-widest uppercase">
                 {debouncedSearch
                   ? `Hasil pencarian untuk "${debouncedSearch}"`
-                  : 'Direktori Lengkap'}
+                  : "Direktori Lengkap"}
               </span>
             </div>
             <h2 className="text-2xl sm:text-3xl font-extrabold text-white">
               {debouncedSearch ? (
                 <>
-                  <span className="gradient-text">{processedShops.length}</span> tempat ditemukan
+                  <span className="gradient-text">{processedShops.length}</span>{" "}
+                  tempat ditemukan
                 </>
               ) : (
                 <>
-                  Semua <span className="gradient-text">Coffee Shop</span> Samarinda
+                  Semua <span className="gradient-text">Coffee Shop</span>{" "}
+                  Samarinda
                 </>
               )}
             </h2>
@@ -201,14 +225,21 @@ export default function App() {
                 className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5"
               >
                 {processedShops.map((shop, index) => (
-                  <CoffeeCard key={shop.id} shop={shop} index={index} />
+                  <CoffeeCard
+                    key={`${shop.id}-${index}`}
+                    shop={shop}
+                    index={index}
+                  />
                 ))}
               </motion.div>
             </AnimatePresence>
           ) : (
             /* Empty state */
             <div className="grid grid-cols-1">
-              <EmptyState query={debouncedSearch || activeFilter} onReset={handleReset} />
+              <EmptyState
+                query={debouncedSearch || activeFilter}
+                onReset={handleReset}
+              />
             </div>
           )}
         </div>
@@ -217,5 +248,5 @@ export default function App() {
       {/* ── Footer ──────────────────────────────────────── */}
       <Footer />
     </div>
-  )
+  );
 }

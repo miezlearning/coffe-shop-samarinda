@@ -1,55 +1,69 @@
-import { useState } from 'react'
-import { motion, AnimatePresence } from 'framer-motion'
-import { Star, MapPin, Clock, Users, ExternalLink, Heart, Sparkles } from 'lucide-react'
+import { useState } from "react";
+import { motion, AnimatePresence } from "framer-motion";
+import {
+  Star,
+  MapPin,
+  Clock,
+  Users,
+  ExternalLink,
+  Heart,
+  Sparkles,
+} from "lucide-react";
 
 // Star rating renderer
 function StarRating({ rating }) {
   return (
     <div className="flex items-center gap-0.5">
       {[1, 2, 3, 4, 5].map((star) => {
-        const filled = rating >= star
-        const half = !filled && rating >= star - 0.5
+        const filled = rating >= star;
+        const half = !filled && rating >= star - 0.5;
         return (
           <svg
             key={star}
             width="13"
             height="13"
             viewBox="0 0 24 24"
-            className={filled || half ? 'text-cream-400' : 'text-zinc-700'}
+            className={filled || half ? "text-cream-400" : "text-zinc-700"}
           >
             <defs>
               {half && (
                 <linearGradient id={`half-${star}`}>
                   <stop offset="50%" stopColor="currentColor" stopOpacity="1" />
-                  <stop offset="50%" stopColor="currentColor" stopOpacity="0.15" />
+                  <stop
+                    offset="50%"
+                    stopColor="currentColor"
+                    stopOpacity="0.15"
+                  />
                 </linearGradient>
               )}
             </defs>
             <path
               d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"
-              fill={half ? `url(#half-${star})` : 'currentColor'}
+              fill={half ? `url(#half-${star})` : "currentColor"}
               stroke="currentColor"
               strokeWidth={filled || half ? 0 : 1}
             />
           </svg>
-        )
+        );
       })}
     </div>
-  )
+  );
 }
 
 // Price range badge
 function PriceBadge({ price }) {
   const colors = {
-    '$': 'text-emerald-400 bg-emerald-400/10',
-    '$$': 'text-amber-400 bg-amber-400/10',
-    '$$$': 'text-rose-400 bg-rose-400/10',
-  }
+    $: "text-emerald-400 bg-emerald-400/10",
+    $$: "text-amber-400 bg-amber-400/10",
+    $$$: "text-rose-400 bg-rose-400/10",
+  };
   return (
-    <span className={`text-xs font-semibold px-2 py-0.5 rounded-lg ${colors[price] || colors['$$']}`}>
+    <span
+      className={`text-xs font-semibold px-2 py-0.5 rounded-lg ${colors[price] || colors["$$"]}`}
+    >
       {price}
     </span>
-  )
+  );
 }
 
 // Card variant animations
@@ -64,16 +78,16 @@ const cardVariants = {
       ease: [0.25, 0.1, 0.25, 1],
     },
   }),
-}
+};
 
 export default function CoffeeCard({ shop, index }) {
-  const [liked, setLiked] = useState(false)
-  const [imgError, setImgError] = useState(false)
+  const [liked, setLiked] = useState(false);
+  const [imgError, setImgError] = useState(false);
 
   const formatReviews = (count) => {
-    if (count >= 1000) return `${(count / 1000).toFixed(1)}k`
-    return count.toString()
-  }
+    if (count >= 1000) return `${(count / 1000).toFixed(1)}k`;
+    return count.toString();
+  };
 
   return (
     <motion.div
@@ -81,10 +95,10 @@ export default function CoffeeCard({ shop, index }) {
       variants={cardVariants}
       initial="hidden"
       whileInView="visible"
-      viewport={{ once: true, margin: '-40px' }}
+      viewport={{ once: true, margin: "-40px" }}
       whileHover={{
         y: -8,
-        transition: { duration: 0.25, ease: 'easeOut' },
+        transition: { duration: 0.25, ease: "easeOut" },
       }}
       className="group relative flex flex-col glass-card overflow-hidden cursor-pointer"
     >
@@ -113,27 +127,28 @@ export default function CoffeeCard({ shop, index }) {
 
         {/* Top-right: like button */}
         <button
-          onClick={(e) => { e.stopPropagation(); setLiked(!liked) }}
+          onClick={(e) => {
+            e.stopPropagation();
+            setLiked(!liked);
+          }}
           className="absolute top-3 right-3 w-8 h-8 rounded-full bg-black/40 backdrop-blur-sm border border-white/10 flex items-center justify-center transition-all hover:scale-110 active:scale-95"
         >
           <Heart
             size={14}
-            className={`transition-colors ${liked ? 'fill-rose-500 text-rose-500' : 'text-white/70'}`}
+            className={`transition-colors ${liked ? "fill-rose-500 text-rose-500" : "text-white/70"}`}
           />
         </button>
 
-        {/* Price range badge */}
-        <div className="absolute top-3 left-3">
-          <PriceBadge price={shop.priceRange} />
-        </div>
+        {/* Price range badge — only shown when data available */}
+        {shop.priceRange && (
+          <div className="absolute top-3 left-3">
+            <PriceBadge price={shop.priceRange} />
+          </div>
+        )}
 
-        {/* Must Try label at bottom of image */}
-        <AnimatePresence>
-          <motion.div
-            initial={{ opacity: 0, y: 8 }}
-            whileHover={{ opacity: 1, y: 0 }}
-            className="absolute bottom-3 left-3 right-3 opacity-0 group-hover:opacity-100 transition-opacity duration-300"
-          >
+        {/* Must Try — only shown when data available */}
+        {shop.mustTry && (
+          <motion.div className="absolute bottom-3 left-3 right-3 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
             <div className="flex items-center gap-1.5 px-2.5 py-1.5 rounded-lg bg-black/60 backdrop-blur-sm border border-white/10">
               <Sparkles size={11} className="text-cream-400 shrink-0" />
               <span className="text-xs text-zinc-300 truncate">
@@ -142,7 +157,7 @@ export default function CoffeeCard({ shop, index }) {
               </span>
             </div>
           </motion.div>
-        </AnimatePresence>
+        )}
       </div>
 
       {/* Card body */}
@@ -164,7 +179,11 @@ export default function CoffeeCard({ shop, index }) {
           <h3 className="font-bold text-white text-lg leading-tight group-hover:text-coffee-300 transition-colors duration-200 line-clamp-1">
             {shop.name}
           </h3>
-          <p className="text-xs text-zinc-500 mt-0.5 line-clamp-1 italic">{shop.tagline}</p>
+          {shop.tagline && (
+            <p className="text-xs text-zinc-500 mt-0.5 line-clamp-1 italic">
+              {shop.tagline}
+            </p>
+          )}
         </div>
 
         {/* Rating row */}
@@ -176,17 +195,19 @@ export default function CoffeeCard({ shop, index }) {
           </span>
         </div>
 
-        {/* Tags */}
-        <div className="flex flex-wrap gap-1">
-          {shop.tags.map((tag) => (
-            <span
-              key={tag}
-              className="text-xs px-2 py-0.5 rounded-md bg-white/5 text-zinc-500 border border-white/8"
-            >
-              #{tag}
-            </span>
-          ))}
-        </div>
+        {/* Tags — only shown when ada */}
+        {shop.tags?.length > 0 && (
+          <div className="flex flex-wrap gap-1">
+            {shop.tags.map((tag) => (
+              <span
+                key={tag}
+                className="text-xs px-2 py-0.5 rounded-md bg-white/5 text-zinc-500 border border-white/8"
+              >
+                #{tag}
+              </span>
+            ))}
+          </div>
+        )}
 
         {/* Divider */}
         <div className="border-t border-white/5" />
@@ -201,11 +222,15 @@ export default function CoffeeCard({ shop, index }) {
             </span>
           </div>
 
-          {/* Hours */}
-          <div className="flex items-center gap-1 shrink-0">
-            <Clock size={12} className="text-zinc-600" />
-            <span className="text-xs text-zinc-600 whitespace-nowrap">{shop.openHours}</span>
-          </div>
+          {/* Hours — only shown when data available */}
+          {shop.openHours && (
+            <div className="flex items-center gap-1 shrink-0">
+              <Clock size={12} className="text-zinc-600" />
+              <span className="text-xs text-zinc-600 whitespace-nowrap">
+                {shop.openHours}
+              </span>
+            </div>
+          )}
         </div>
 
         {/* CTA Button */}
@@ -218,12 +243,15 @@ export default function CoffeeCard({ shop, index }) {
         >
           <MapPin size={14} />
           <span>Lihat di Maps</span>
-          <ExternalLink size={12} className="opacity-0 group-hover/btn:opacity-100 transition-opacity" />
+          <ExternalLink
+            size={12}
+            className="opacity-0 group-hover/btn:opacity-100 transition-opacity"
+          />
         </a>
       </div>
 
       {/* Hover border glow */}
       <div className="absolute inset-0 rounded-2xl opacity-0 group-hover:opacity-100 transition-opacity duration-300 pointer-events-none ring-1 ring-coffee-500/30" />
     </motion.div>
-  )
+  );
 }
