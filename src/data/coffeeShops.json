@@ -3,155 +3,928 @@
     "nama": "212 COFFEE & SPACE · Visited link",
     "rating": "4.6",
     "jumlah_ulasan": "575",
-    "kategori": "Coffee shop",
+    "kategori": "212 COFFEE & SPACE",
     "alamat": "Jl. Bung Tomo No.18e",
-    "url": "https://www.google.com/maps/place/212+COFFEE+%26+SPACE/data=!4m7!3m6!1s0x2df67fb7f6b56d8b:0x510280041e092110!8m2!3d-0.5155515!4d117.1257407!16s%2Fg%2F11s8tjxsqg!19sChIJi2219rd_9i0RECEJHgSAAlE",
-    "featured": true,
-    "featuredLabel": "Top Rated",
-    "tagline": "Space kerja, ruang ngobrol, kopi berkelas",
-    "image": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?w=600&auto=format&fit=crop&q=80",
-    "tags": ["WiFi Cepat", "Cozy", "Workspace"],
-    "mustTry": "Kopi Susu Aren Signature",
-    "openHours": "09.00 – 22.00",
-    "priceRange": "$$"
+    "url": "https://www.google.com/maps/place/212+COFFEE+%26+SPACE/data=!4m7!3m6!1s0x2df67fb7f6b56d8b:0x510280041e092110!8m2!3d-0.5155515!4d117.1257407!16s%2Fg%2F11s8tjxsqg!19sChIJi2219rd_9i0RECEJHgSAAlE"
   },
   {
-    "nama": "Pangko Coffee",
+    "nama": "Coffee & Co",
+    "rating": "4.9",
+    "jumlah_ulasan": "1,920",
+    "kategori": "Open · Closes 11.00 pm",
+    "alamat": "Jl. Mulawarman No.171",
+    "url": "https://www.google.com/maps/place/Coffee+%26+Co/data=!4m7!3m6!1s0x2df67f6f148cc535:0x525ac106c2643821!8m2!3d-0.5031129!4d117.1520403!16s%2Fg%2F11ngjysnr5!19sChIJNcWMFG9_9i0RIThkwgbBWlI"
+  },
+  {
+    "nama": "KOPIKUMANA · Visited link",
+    "rating": "4.7",
+    "jumlah_ulasan": "248",
+    "kategori": "KOPIKUMANA",
+    "alamat": "Jl. Angklung No.06A",
+    "url": "https://www.google.com/maps/place/KOPIKUMANA/data=!4m7!3m6!1s0x2df67fa28fa59125:0x6569b87971677806!8m2!3d-0.4876328!4d117.1486793!16s%2Fg%2F11rfc3n31l!19sChIJJZGlj6J_9i0RBnhncXm4aWU"
+  },
+  {
+    "nama": "Pot O Koffie",
+    "rating": "4.5",
+    "jumlah_ulasan": "220",
+    "kategori": "Open · Closes 11.00 pm",
+    "alamat": "Jl. Angklung No.4, RW.01",
+    "url": "https://www.google.com/maps/place/Pot+O+Koffie/data=!4m7!3m6!1s0x2df67f91b1ad0833:0xf7d2f382a7d07a4d!8m2!3d-0.4879701!4d117.1487584!16s%2Fg%2F11j_8lljm3!19sChIJMwitsZF_9i0RTXrQp4Lz0vc"
+  },
+  {
+    "nama": "Fren",
+    "rating": "4.5",
+    "jumlah_ulasan": "678",
+    "kategori": "Fren.co Coffee & Eatery",
+    "alamat": "Jl. Siradj Salman No.6a, RW.01",
+    "url": "https://www.google.com/maps/place/Fren.co+Coffee+%26+Eatery/data=!4m7!3m6!1s0x2df67f5f82ca0f9d:0xa5cb065301759dc1!8m2!3d-0.4902509!4d117.1304499!16s%2Fg%2F11qqqt0qwy!19sChIJnQ_Kgl9_9i0RwZ11AVMGy6U"
+  },
+  {
+    "nama": "Saqa Coffee House And Space · Visited link",
     "rating": "4.8",
-    "jumlah_ulasan": "1.247",
-    "kategori": "Coffee shop",
-    "alamat": "Jl. Antasari No.12, Samarinda Ulu",
-    "url": "https://www.google.com/maps/search/Pangko+Coffee+Samarinda",
-    "featured": true,
-    "featuredLabel": "Partner Unggulan",
-    "tagline": "Kopi autentik Kalimantan dengan vibe yang cozy",
-    "image": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?w=600&auto=format&fit=crop&q=80",
-    "tags": ["Instagramable", "Kopi Lokal", "Pet Friendly"],
-    "mustTry": "Kopi Arabika Liberika Single Origin",
-    "openHours": "07.00 – 23.00",
-    "priceRange": "$$"
+    "jumlah_ulasan": "111",
+    "kategori": "Open · Closes 12.00 am",
+    "alamat": "Jl. Wijaya Kusuma 9A No.4",
+    "url": "https://www.google.com/maps/place/Saqa+Coffee+House+And+Space/data=!4m7!3m6!1s0x2df67fb8fd6b0897:0x7efd54faa559a4d2!8m2!3d-0.4871135!4d117.1317826!16s%2Fg%2F11tccbl8bg!19sChIJlwhr_bh_9i0R0qRZpfpU_X4"
   },
   {
-    "nama": "Filosofi Kopi Samarinda · Visited link",
+    "nama": "Star Bud Coffee · Visited link",
     "rating": "4.7",
-    "jumlah_ulasan": "983",
-    "kategori": "Coffee shop",
-    "alamat": "Jl. P. Suryanata No.88, Mugirejo",
-    "url": "https://www.google.com/maps/search/Filosofi+Kopi+Samarinda",
-    "featured": true,
-    "featuredLabel": "Most Reviewed",
-    "tagline": "Di sini, setiap cangkir punya cerita",
-    "image": "https://images.unsplash.com/photo-1453614512568-c4024d13c247?w=600&auto=format&fit=crop&q=80",
-    "tags": ["Aesthetic", "Live Music", "Outdoor"],
-    "mustTry": "Pour Over Ethiopia Yirgacheffe",
-    "openHours": "08.00 – 22.00",
-    "priceRange": "$$"
+    "jumlah_ulasan": "97",
+    "kategori": "Star Bud Coffee",
+    "alamat": "-",
+    "url": "https://www.google.com/maps/place/Star+Bud+Coffee/data=!4m7!3m6!1s0x2df67fed3eb89517:0x9b40d11f71ebbf16!8m2!3d-0.5031163!4d117.1504864!16s%2Fg%2F11pw3_z008!19sChIJF5W4Pu1_9i0RFr_rcR_RQJs"
   },
   {
-    "nama": "Kopi Kenangan Samarinda",
-    "rating": "4.5",
-    "jumlah_ulasan": "2.341",
-    "kategori": "Coffee shop",
-    "alamat": "Mall Lembuswana Lt.1, Jl. S. Parman",
-    "url": "https://www.google.com/maps/search/Kopi+Kenangan+Samarinda"
-  },
-  {
-    "nama": "Anomali Coffee · Visited link",
-    "rating": "4.6",
-    "jumlah_ulasan": "756",
-    "kategori": "Coffee shop",
-    "alamat": "Jl. Untung Suropati No.4, Air Putih",
-    "url": "https://www.google.com/maps/search/Anomali+Coffee+Samarinda",
-    "tags": ["Single Origin", "Barista Pro", "Quiet"],
-    "mustTry": "Cold Brew Flores Bajawa",
-    "openHours": "08.00 – 22.00",
-    "priceRange": "$$$"
-  },
-  {
-    "nama": "Tuku Coffee Borneo",
+    "nama": "satukata coffee co",
     "rating": "4.4",
-    "jumlah_ulasan": "521",
-    "kategori": "Coffee shop",
-    "alamat": "Jl. DI. Panjaitan No.35, Sungai Pinang",
-    "url": "https://www.google.com/maps/search/Tuku+Coffee+Borneo+Samarinda",
-    "tags": ["Lokal", "Murah", "Cozy"],
-    "priceRange": "$$"
+    "jumlah_ulasan": "546",
+    "kategori": "satukata coffee co.",
+    "alamat": "Jl. Basuki Rahmat",
+    "url": "https://www.google.com/maps/place/satukata+coffee+co./data=!4m7!3m6!1s0x2df67f42f3c40d6f:0xfcb3b176d8512aa8!8m2!3d-0.4922098!4d117.1328133!16s%2Fg%2F11h1ywpkch!19sChIJbw3E80J_9i0RqCpR2Haxs_w"
   },
   {
-    "nama": "Sejiwa Coffee · Visited link",
-    "rating": "4.5",
-    "jumlah_ulasan": "632",
-    "kategori": "Cafe",
-    "alamat": "Jl. Kapten Soedjono No.17, Lempake",
-    "url": "https://www.google.com/maps/search/Sejiwa+Coffee+Samarinda",
-    "tags": ["Garden View", "Pet Friendly", "WiFi"],
-    "mustTry": "Iced Brown Sugar Oat Latte",
-    "openHours": "08.00 – 00.00",
-    "priceRange": "$$"
-  },
-  {
-    "nama": "Common Grounds",
-    "rating": "4.7",
-    "jumlah_ulasan": "891",
-    "kategori": "Coffee shop",
-    "alamat": "Jl. Pahlawan No.8, Karang Asam",
-    "url": "https://www.google.com/maps/search/Common+Grounds+Samarinda",
-    "tags": ["Full Day", "Meeting Room", "Specialty"],
-    "openHours": "07.30 – 22.00",
-    "priceRange": "$$$"
-  },
-  {
-    "nama": "Depot Kopi Hitam · Visited link",
+    "nama": "Kong Djie Coffee Samarinda · Visited link",
     "rating": "4.3",
-    "jumlah_ulasan": "314",
-    "kategori": "Coffee shop",
-    "alamat": "Jl. Cendana No.22, Sambutan",
-    "url": "https://www.google.com/maps/search/Depot+Kopi+Hitam+Samarinda",
-    "tags": ["Klasik", "Murah", "Sarapan Pagi"],
-    "mustTry": "Kopi Tubruk + Nasi Kuning",
-    "openHours": "05.30 – 13.00",
-    "priceRange": "$"
+    "jumlah_ulasan": "441",
+    "kategori": "Kong Djie Coffee Samarinda",
+    "alamat": "Jl. Niaga Utara",
+    "url": "https://www.google.com/maps/place/Kong+Djie+Coffee+Samarinda/data=!4m7!3m6!1s0x2df67f34ebd9490b:0x4329eeec3773e7a!8m2!3d-0.5030144!4d117.1500463!16s%2Fg%2F11lm0xpjj6!19sChIJC0nZ6zR_9i0Rej53w-6eMgQ"
   },
   {
-    "nama": "Ruang Kopi",
+    "nama": "A Lot Of Coffee Samarinda · Visited link",
     "rating": "4.6",
-    "jumlah_ulasan": "744",
-    "kategori": "Coffee shop",
-    "alamat": "Jl. M. Yamin No.51, Sempaja Selatan",
-    "url": "https://www.google.com/maps/search/Ruang+Kopi+Samarinda",
-    "tags": ["Coworking", "Fast WiFi", "Power Outlet"],
-    "openHours": "08.00 – 23.00",
-    "priceRange": "$$"
+    "jumlah_ulasan": "78",
+    "kategori": "Coffee shop · F5V4+939",
+    "alamat": "-",
+    "url": "https://www.google.com/maps/place/A+Lot+Of+Coffee+Samarinda/data=!4m7!3m6!1s0x2df67f92e10f2a8d:0x4dac8dd70459fb6!8m2!3d-0.5065899!4d117.1552332!16s%2Fg%2F11sqk7c6ft!19sChIJjSoP4ZJ_9i0Rtp9FcN3I2gQ"
   },
   {
-    "nama": "Titik Kumpul Coffee · Visited link",
-    "rating": "4.5",
-    "jumlah_ulasan": "589",
-    "kategori": "Coffee shop",
-    "alamat": "Jl. A. Wahab Syahrani No.3, Gunung Kelua",
-    "url": "https://www.google.com/maps/search/Titik+Kumpul+Coffee+Samarinda",
-    "tags": ["Rooftop", "City View", "Hits"],
-    "mustTry": "Vanilla Cold Brew Tonic",
-    "openHours": "10.00 – 24.00",
-    "priceRange": "$$"
+    "nama": "Ah Pek Samarinda",
+    "rating": "4.6",
+    "jumlah_ulasan": "447",
+    "kategori": "Open · Closes 10.00 pm",
+    "alamat": "Jl. Hasan Basri No.53",
+    "url": "https://www.google.com/maps/place/Ah+Pek+Samarinda/data=!4m7!3m6!1s0x2df67f004b630b3d:0x1d379cbfc31a7430!8m2!3d-0.4792889!4d117.1526864!16s%2Fg%2F11ytb78zrv!19sChIJPQtjSwB_9i0RMHQaw7-cNx0"
   },
   {
-    "nama": "Kopi Janji Jiwa",
+    "nama": "Titik Koma Antasari Samarinda · Visited link",
+    "rating": "4.8",
+    "jumlah_ulasan": "303",
+    "kategori": "Titik Koma Antasari Samarinda",
+    "alamat": "Jl. P Antasari No.20 B",
+    "url": "https://www.google.com/maps/place/Titik+Koma+Antasari+Samarinda/data=!4m7!3m6!1s0x2df67f0ddb4ab7af:0x689112fc968571d3!8m2!3d-0.4939314!4d117.1270362!16s%2Fg%2F11l6_s5sp7!19sChIJr7dK2w1_9i0R03GFlvwSkWg"
+  },
+  {
+    "nama": "28 Coffee Samarinda ARH · Visited link",
+    "rating": "4.7",
+    "jumlah_ulasan": "164",
+    "kategori": "28 Coffee Samarinda ARH",
+    "alamat": "Jl. Arief Rahman Hakim No.14",
+    "url": "https://www.google.com/maps/place/28+Coffee+Samarinda+ARH/data=!4m7!3m6!1s0x2df67f006945a27d:0xe45cb70ff695fd6b!8m2!3d-0.4967309!4d117.1553345!16s%2Fg%2F11xztw2bst!19sChIJfaJFaQB_9i0Ra_2V9g-3XOQ"
+  },
+  {
+    "nama": "TOMORO COFFEE - Merak Square Samarinda · Visited link",
+    "rating": "4.7",
+    "jumlah_ulasan": "597",
+    "kategori": "Open 24 hours",
+    "alamat": "Komplek Merak Square, Jl. Hasan Basri No. 53, Temindung Permai, Sungai Pinang, Samarinda City, East Kalimantan 75119",
+    "url": "https://www.google.com/maps/place/TOMORO+COFFEE+-+Merak+Square+Samarinda/data=!4m7!3m6!1s0x2df67ff2e2ee67f5:0x3d6e368f21f6af25!8m2!3d-0.479311!4d117.1528388!16s%2Fg%2F11wwywcn14!19sChIJ9Wfu4vJ_9i0RJa_2IY82bj0"
+  },
+  {
+    "nama": "Salman Avenue | Coffee & Sunset · Visited link",
     "rating": "4.4",
-    "jumlah_ulasan": "1.876",
-    "kategori": "Coffee shop",
-    "alamat": "Jl. Pattimura No.22, Sungai Kunjang",
-    "url": "https://www.google.com/maps/search/Kopi+Janji+Jiwa+Samarinda",
-    "priceRange": "$"
+    "jumlah_ulasan": "340",
+    "kategori": "Open · Closes 9.00 pm",
+    "alamat": "Jl. Siradj Salman",
+    "url": "https://www.google.com/maps/place/Salman+Avenue+%7C+Coffee+%26+Sunset/data=!4m7!3m6!1s0x2df67fdda4fa3fc5:0xb1e904d20ac5202!8m2!3d-0.4907022!4d117.1333164!16s%2Fg%2F11rgdtw9v2!19sChIJxT_6pN1_9i0RAlKsIE2QHgs"
   },
   {
-    "nama": "Kedai Kopi Pelangi · Visited link",
+    "nama": "TAWA CAFE (Cafe Coffe Shop working space , speciality Coffe Samarinda Seberang) Takeaway & Dine in · Visited link",
+    "rating": "4.5",
+    "jumlah_ulasan": "83",
+    "kategori": "Closed · Opens 10.00 am",
+    "alamat": "-",
+    "url": "https://www.google.com/maps/place/TAWA+CAFE+%28Cafe+Coffe+Shop+working+space+,+speciality+Coffe+Samarinda+Seberang%29+Takeaway+%26+Dine+in/data=!4m7!3m6!1s0x2df67f028cfef61d:0x52beb5a70889bc60!8m2!3d-0.5327131!4d117.123362!16s%2Fg%2F11jyfhb4bt!19sChIJHfb-jAJ_9i0RYLyJCKe1vlI"
+  },
+  {
+    "nama": "Seraung Coffice · Visited link",
+    "rating": "4.6",
+    "jumlah_ulasan": "415",
+    "kategori": "Seraung Coffice",
+    "alamat": "Jl. Wijaya Kusuma XII No.7",
+    "url": "https://www.google.com/maps/place/Seraung+Coffice/data=!4m7!3m6!1s0x2df67f478b0ac8bd:0xeb396aa129873394!8m2!3d-0.4872171!4d117.1325558!16s%2Fg%2F11txd1z0zp!19sChIJvcgKi0d_9i0RlDOHKaFqOes"
+  },
+  {
+    "nama": "Good Quarter · Visited link",
+    "rating": "4.5",
+    "jumlah_ulasan": "429",
+    "kategori": "Good Quarter",
+    "alamat": "Jl. Mulawarman No.18",
+    "url": "https://www.google.com/maps/place/Good+Quarter/data=!4m7!3m6!1s0x2df67f758853f405:0x2a83884186c6e347!8m2!3d-0.5050732!4d117.1557945!16s%2Fg%2F11qp2mt8w_!19sChIJBfRTiHV_9i0RR-PGhkGIgyo"
+  },
+  {
+    "nama": "Fore Coffee - Ahmad Yani, Samarinda · Visited link",
+    "rating": "4.5",
+    "jumlah_ulasan": "129",
+    "kategori": "Open · Closes 10.00 pm",
+    "alamat": "-",
+    "url": "https://www.google.com/maps/place/Fore+Coffee+-+Ahmad+Yani,+Samarinda/data=!4m7!3m6!1s0x2df67f00169faa6f:0x143c211e5ddc1891!8m2!3d-0.4785625!4d117.1555625!16s%2Fg%2F11xvby7b90!19sChIJb6qfFgB_9i0RkRjcXR4hPBQ"
+  },
+  {
+    "nama": "Roona Coffee Samarinda · Visited link",
+    "rating": "4.7",
+    "jumlah_ulasan": "12",
+    "kategori": "Roona Coffee Samarinda",
+    "alamat": "Jl. Abdul Muthalib No.9",
+    "url": "https://www.google.com/maps/place/Roona+Coffee+Samarinda/data=!4m7!3m6!1s0x2df67f0899940f11:0x2c813ee1fde1016a!8m2!3d-0.4966148!4d117.1586539!16s%2Fg%2F11z52wnrp4!19sChIJEQ-UmQh_9i0RagHh_eE-gSw"
+  },
+  {
+    "nama": "Titik Central Coffee · Visited link",
+    "rating": "4.5",
+    "jumlah_ulasan": "13",
+    "kategori": "Titik Central Coffee",
+    "alamat": "Jl. Siradj Salman Ruko Grand Mahakam, Blk. C No.05",
+    "url": "https://www.google.com/maps/place/Titik+Central+Coffee/data=!4m7!3m6!1s0x2df67f469740552f:0x43e7fe65f367ccfd!8m2!3d-0.4917374!4d117.1343288!16s%2Fg%2F11qndr603q!19sChIJL1VAl0Z_9i0R_cxn82X-50M"
+  },
+  {
+    "nama": "Foresthree Coffe Samarinda · Visited link",
+    "rating": "4.6",
+    "jumlah_ulasan": "65",
+    "kategori": "Foresthree Coffe Samarinda",
+    "alamat": "Jl. Ir. H. Juanda No.90",
+    "url": "https://www.google.com/maps/place/Foresthree+Coffe+Samarinda/data=!4m7!3m6!1s0x2df67f27ec382d4b:0xd8f4d47bb156c5a9!8m2!3d-0.4816064!4d117.1334681!16s%2Fg%2F11j2chv2y6!19sChIJSy047Cd_9i0RqcVWsXvU9Ng"
+  },
+  {
+    "nama": "House Of Gentlemen Coffee Shop (HOG Coffee)",
+    "rating": "4.7",
+    "jumlah_ulasan": "19",
+    "kategori": "Dine-in",
+    "alamat": "Jl. Mulawarman, RT 03, Blok 02, No.11",
+    "url": "https://www.google.com/maps/place/House+Of+Gentlemen+Coffee+Shop+%28HOG+Coffee%29/data=!4m7!3m6!1s0x2df67f0879ce74ef:0xd5ebb2067376199e!8m2!3d-0.5049243!4d117.1551215!16s%2Fg%2F11g0dsqyv9!19sChIJ73TOeQh_9i0Rnhl2cway69U"
+  },
+  {
+    "nama": "Kopi Toebroek · Visited link",
+    "rating": "4.5",
+    "jumlah_ulasan": "113",
+    "kategori": "Kopi Toebroek",
+    "alamat": "Jln. Ir Hj Juanda (ex Calais",
+    "url": "https://www.google.com/maps/place/Kopi+Toebroek/data=!4m7!3m6!1s0x2df67ff185be8227:0x7935d4337ba83d6e!8m2!3d-0.4781721!4d117.1367377!16s%2Fg%2F11sk3lktwf!19sChIJJ4K-hfF_9i0Rbj2oezPUNXk"
+  },
+  {
+    "nama": "Kopi Sang Fajar · Visited link",
     "rating": "4.2",
-    "jumlah_ulasan": "287",
-    "kategori": "Cafe",
-    "alamat": "Jl. Slamet Riyadi No.44, Samarinda Seberang",
-    "url": "https://www.google.com/maps/search/Kedai+Kopi+Pelangi+Samarinda",
-    "tags": ["Kue", "Instagramable", "Santai"],
-    "priceRange": "$"
+    "jumlah_ulasan": "64",
+    "kategori": "Kopi Sang Fajar",
+    "alamat": "-",
+    "url": "https://www.google.com/maps/place/Kopi+Sang+Fajar/data=!4m7!3m6!1s0x2df67f1b1165137d:0x75f926524f9d771e!8m2!3d-0.491754!4d117.1342358!16s%2Fg%2F11y4b_x6md!19sChIJfRNlERt_9i0RHnedT1Im-XU"
+  },
+  {
+    "nama": "Esteh Laris Samarinda sebrang · Visited link",
+    "rating": "5.0",
+    "jumlah_ulasan": "4",
+    "kategori": "Esteh Laris Samarinda sebrang",
+    "alamat": "-",
+    "url": "https://www.google.com/maps/place/Esteh+Laris+Samarinda+sebrang/data=!4m7!3m6!1s0x2df67fdcd0e7fa65:0xe64154bd014067b!8m2!3d-0.5189602!4d117.1221362!16s%2Fg%2F11vl5tdspg!19sChIJZfrn0Nx_9i0RewYU0EsVZA4"
+  },
+  {
+    "nama": "Metro Vape & Cafe · Visited link",
+    "rating": "4.5",
+    "jumlah_ulasan": "70",
+    "kategori": "Metro Vape & Cafe",
+    "alamat": "Jl. Nahkoda No.84",
+    "url": "https://www.google.com/maps/place/Metro+Vape+%26+Cafe/data=!4m7!3m6!1s0x2df67f9ebe347eb3:0x4a27b96278a43dd1!8m2!3d-0.504655!4d117.1547045!16s%2Fg%2F11dxhzyg3l!19sChIJs340vp5_9i0R0T2keGK5J0o"
+  },
+  {
+    "nama": "NABO COFFEE & CAFE · Visited link",
+    "rating": "4.4",
+    "jumlah_ulasan": "70",
+    "kategori": "NABO COFFEE & CAFE",
+    "alamat": "Jl. Siradj Salman Jl. Ruko Grand Mutiara No.A3",
+    "url": "https://www.google.com/maps/place/NABO+COFFEE+%26+CAFE/data=!4m7!3m6!1s0x2df67f05f901c5f1:0xc8d9b4ecc3d20dc6!8m2!3d-0.4911023!4d117.1333091!16s%2Fg%2F11fwgz3qz3!19sChIJ8cUB-QV_9i0Rxg3Sw-y02cg"
+  },
+  {
+    "nama": "Pops Coffee · Visited link",
+    "rating": "4.6",
+    "jumlah_ulasan": "260",
+    "kategori": "Pops Coffee",
+    "alamat": "Jl. KH. Agus Salim No.12A",
+    "url": "https://www.google.com/maps/place/Pops+Coffee/data=!4m7!3m6!1s0x2df67fb2d6329a61:0x107200ddd50398a1!8m2!3d-0.4947541!4d117.1502282!16s%2Fg%2F11h5vdbhdw!19sChIJYZoy1rJ_9i0RoZgD1d0AchA"
+  },
+  {
+    "nama": "Seedy Coffee Cafe · Visited link",
+    "rating": "4.5",
+    "jumlah_ulasan": "115",
+    "kategori": "Seedy Coffee Cafe",
+    "alamat": "Jl. Niaga Utara A No.14",
+    "url": "https://www.google.com/maps/place/Seedy+Coffee+Cafe/data=!4m7!3m6!1s0x2df67fa5eedb1cb5:0xd547f3804b254e1d!8m2!3d-0.5021809!4d117.1495201!16s%2Fg%2F11fk8zftsp!19sChIJtRzb7qV_9i0RHU4lS4DzR9U"
+  },
+  {
+    "nama": "D'puncak Cafe & Resto · Visited link",
+    "rating": "4.3",
+    "jumlah_ulasan": "1,586",
+    "kategori": "D'puncak Cafe & Resto",
+    "alamat": "-",
+    "url": "https://www.google.com/maps/place/D%27puncak+Cafe+%26+Resto/data=!4m7!3m6!1s0x2df67efadcaf4615:0x82f8fba2d87f2976!8m2!3d-0.494047!4d117.116957!16s%2Fg%2F1pzx3yzvg!19sChIJFUav3Pp-9i0Rdil_2KL7-II"
+  },
+  {
+    "nama": "Analogi Coffee · Visited link",
+    "rating": "4.3",
+    "jumlah_ulasan": "27",
+    "kategori": "Analogi Coffee",
+    "alamat": "-",
+    "url": "https://www.google.com/maps/place/Analogi+Coffee/data=!4m7!3m6!1s0x2df67f999b769713:0xab69535f98222d6!8m2!3d-0.4940867!4d117.1376964!16s%2Fg%2F11hs36fh3b!19sChIJE5d2m5l_9i0R1iKC-TWVtgo"
+  },
+  {
+    "nama": "Kopitiam Bahari · Visited link",
+    "rating": "4.7",
+    "jumlah_ulasan": "131",
+    "kategori": "Kopitiam Bahari",
+    "alamat": "Jl. Mawar No.1",
+    "url": "https://www.google.com/maps/place/Kopitiam+Bahari/data=!4m7!3m6!1s0x2df67f74811601e9:0x24953966eacb2cd4!8m2!3d-0.494256!4d117.1444038!16s%2Fg%2F11j3756dmt!19sChIJ6QEWgXR_9i0R1CzL6mY5lSQ"
+  },
+  {
+    "nama": "Sembilan Home · Visited link",
+    "rating": "4.9",
+    "jumlah_ulasan": "21",
+    "kategori": "Sembilan Home",
+    "alamat": "Jl. Angsoka No.9",
+    "url": "https://www.google.com/maps/place/Sembilan+Home/data=!4m7!3m6!1s0x2df67f714dc39703:0x74ccd88ce3fce060!8m2!3d-0.4948312!4d117.1464282!16s%2Fg%2F11s84237xt!19sChIJA5fDTXF_9i0RYOD844zYzHQ"
+  },
+  {
+    "nama": "Fore Coffee Bhayangkara (SOON)",
+    "rating": "-",
+    "jumlah_ulasan": "-",
+    "kategori": "No reviews",
+    "alamat": "Jl. Bhayangkara No.33",
+    "url": "https://www.google.com/maps/place/Fore+Coffee+Bhayangkara+%28SOON%29/data=!4m7!3m6!1s0x2df67f000dd5d1a5:0xc7c1d1aa635514fb!8m2!3d-0.4938901!4d117.1440272!16s%2Fg%2F11nhs_q_5c!19sChIJpdHVDQB_9i0R-xRVY6rRwcc"
+  },
+  {
+    "nama": "Mood Coffee Samarinda · Visited link",
+    "rating": "5.0",
+    "jumlah_ulasan": "17",
+    "kategori": "Mood Coffee Samarinda",
+    "alamat": "Komplek Ruko, Jl. Bukit Alaya Blk. A No.8",
+    "url": "https://www.google.com/maps/place/Mood+Coffee+Samarinda/data=!4m7!3m6!1s0x2df67f3e78576a1d:0x7b148be6b32e67b4!8m2!3d-0.4626498!4d117.1759758!16s%2Fg%2F11t6pl4fr0!19sChIJHWpXeD5_9i0RtGcus-aLFHs"
+  },
+  {
+    "nama": "Take My Coffee Ks Tubun",
+    "rating": "4.7",
+    "jumlah_ulasan": "11",
+    "kategori": "Dine-in",
+    "alamat": "-",
+    "url": "https://www.google.com/maps/place/Take+My+Coffee+Ks+Tubun/data=!4m7!3m6!1s0x2df67f392e0680cf:0xd44eb282af13a4c3!8m2!3d-0.492785!4d117.142128!16s%2Fg%2F11ppz8q5xj!19sChIJz4AGLjl_9i0Rw6QTr4KyTtQ"
+  },
+  {
+    "nama": "Long April · Visited link",
+    "rating": "4.7",
+    "jumlah_ulasan": "488",
+    "kategori": "Long April",
+    "alamat": "Jl. Gatot Subroto No.68",
+    "url": "https://www.google.com/maps/place/Long+April/data=!4m7!3m6!1s0x2df67f960e0068a1:0x2e55983187620425!8m2!3d-0.4852985!4d117.1555862!16s%2Fg%2F11kpd_54rk!19sChIJoWgADpZ_9i0RJQRihzGYVS4"
+  },
+  {
+    "nama": "JANU COFFEE Samarinda",
+    "rating": "5.0",
+    "jumlah_ulasan": "1",
+    "kategori": "Closed · Opens 10.00 am",
+    "alamat": "Jl. KS. Tubun No.6",
+    "url": "https://www.google.com/maps/place/JANU+COFFEE+Samarinda/data=!4m7!3m6!1s0x2df67fb960533439:0x4938d572a2059f61!8m2!3d-0.4940117!4d117.1437102!16s%2Fg%2F11n18y1fzb!19sChIJOTRTYLl_9i0RYZ8FonLVOEk"
+  },
+  {
+    "nama": "Noona House by Noona Judes X Noona Manis",
+    "rating": "4.2",
+    "jumlah_ulasan": "90",
+    "kategori": "Closed · Opens 12.00 pm",
+    "alamat": "Jl. Wijaya Kusuma 9A",
+    "url": "https://www.google.com/maps/place/Noona+House+by+Noona+Judes+X+Noona+Manis/data=!4m7!3m6!1s0x2df67fd67d154b93:0x2e6731d6e4889b9d!8m2!3d-0.486968!4d117.1323087!16s%2Fg%2F11kq13fwzr!19sChIJk0sVfdZ_9i0RnZuI5NYxZy4"
+  },
+  {
+    "nama": "Kopi Kenangan - Ruko Bung Tomo Samarinda",
+    "rating": "4.6",
+    "jumlah_ulasan": "387",
+    "kategori": "Open 24 hours",
+    "alamat": "Jl. Bung Tomo No.68 A",
+    "url": "https://www.google.com/maps/place/Kopi+Kenangan+-+Ruko+Bung+Tomo+Samarinda/data=!4m7!3m6!1s0x2df67fc18f5818e5:0x8cfe917083424b50!8m2!3d-0.5130631!4d117.1317248!16s%2Fg%2F11pz0qjc_y!19sChIJ5RhYj8F_9i0RUEtCg3CR_ow"
+  },
+  {
+    "nama": "Coffee Papie",
+    "rating": "4.6",
+    "jumlah_ulasan": "72",
+    "kategori": "Open · Closes 12.00 am",
+    "alamat": "Jl. KH Abdurrasyid No.17",
+    "url": "https://www.google.com/maps/place/Coffee+Papie/data=!4m7!3m6!1s0x2df67fc09ab8fc8b:0xe27485db4ffee5d1!8m2!3d-0.4954585!4d117.1473026!16s%2Fg%2F11k55b3qp0!19sChIJi_y4msB_9i0R0eX-T9uFdOI"
+  },
+  {
+    "nama": "Unico Coffee · Visited link",
+    "rating": "4.6",
+    "jumlah_ulasan": "205",
+    "kategori": "Unico Coffee",
+    "alamat": "Jl. Ir. H. Juanda No.80C",
+    "url": "https://www.google.com/maps/place/Unico+Coffee/data=!4m7!3m6!1s0x2df67f792eaaf165:0xd1acf2e36204614a!8m2!3d-0.4819418!4d117.1335701!16s%2Fg%2F11t2c0j3l9!19sChIJZfGqLnl_9i0RSmEEYuPyrNE"
+  },
+  {
+    "nama": "DECAFE Resto, Pastry & Bakery Samarinda",
+    "rating": "4.7",
+    "jumlah_ulasan": "1,512",
+    "kategori": "Open · Closes 11.00 pm",
+    "alamat": "Jl. Niaga Timur No.130",
+    "url": "https://www.google.com/maps/place/DECAFE+Resto,+Pastry+%26+Bakery+Samarinda/data=!4m7!3m6!1s0x2df67f4c1b52e3a1:0x47b69dab4405a60e!8m2!3d-0.5048748!4d117.1516444!16s%2Fg%2F11kqcyzppg!19sChIJoeNSG0x_9i0RDqYFRKudtkc"
+  },
+  {
+    "nama": "Kana Coffee",
+    "rating": "4.9",
+    "jumlah_ulasan": "401",
+    "kategori": "Closed · Opens 10.00 am",
+    "alamat": "Jl. Muso Salim No.53",
+    "url": "https://www.google.com/maps/place/Kana+Coffee/data=!4m7!3m6!1s0x2df67fd5c073459b:0xf01d67967c8e272f!8m2!3d-0.498656!4d117.1592013!16s%2Fg%2F11sz155bqr!19sChIJm0VzwNV_9i0RLyeOfJZnHfA"
+  },
+  {
+    "nama": "Lipan Hill Resto Samarinda",
+    "rating": "4.2",
+    "jumlah_ulasan": "392",
+    "kategori": "Open 24 hours",
+    "alamat": "-",
+    "url": "https://www.google.com/maps/place/Lipan+Hill+Resto+Samarinda/data=!4m7!3m6!1s0x2df6809ccb18aa29:0xabe913fa08e68a57!8m2!3d-0.5383651!4d117.1146026!16s%2Fg%2F11bccm7bdn!19sChIJKaoYy5yA9i0RV4rmCPoT6as"
+  },
+  {
+    "nama": "Warung Kopi Pelabuhan (Koh A Bun)",
+    "rating": "4.7",
+    "jumlah_ulasan": "439",
+    "kategori": "Open · Closes 5.00 pm",
+    "alamat": "Jl. Pelabuhan No.27",
+    "url": "https://www.google.com/maps/place/Warung+Kopi+Pelabuhan+%28Koh+A+Bun%29/data=!4m7!3m6!1s0x2df67f9f18fa413b:0xdd75d10d3c6bae70!8m2!3d-0.5041067!4d117.1528217!16s%2Fg%2F11bvvy7f9j!19sChIJO0H6GJ9_9i0RcK5rPA3Rdd0"
+  },
+  {
+    "nama": "TOMORO COFFEE - SEBATIK SAMARINDA",
+    "rating": "4.7",
+    "jumlah_ulasan": "328",
+    "kategori": "Open · Closes 12.00 am",
+    "alamat": "-",
+    "url": "https://www.google.com/maps/place/TOMORO+COFFEE+-+SEBATIK+SAMARINDA/data=!4m7!3m6!1s0x2df67fc47a8113d1:0x3ea7cf342b0af457!8m2!3d-0.5013125!4d117.1523125!16s%2Fg%2F11x1s2bct8!19sChIJ0ROBesR_9i0RV_QKKzTPpz4"
+  },
+  {
+    "nama": "Tooday's Bake & Brew",
+    "rating": "4.3",
+    "jumlah_ulasan": "94",
+    "kategori": "Open · Closes 10.00 pm",
+    "alamat": "-",
+    "url": "https://www.google.com/maps/place/Tooday%27s+Bake+%26+Brew/data=!4m7!3m6!1s0x2df67f006395daad:0x8bddef8ea4ba8cba!8m2!3d-0.495621!4d117.1451327!16s%2Fg%2F11w4d716lz!19sChIJrdqVYwB_9i0Ruoy6pI7v3Ys"
+  },
+  {
+    "nama": "Kongdjie Coffee Samarinda",
+    "rating": "4.0",
+    "jumlah_ulasan": "1",
+    "kategori": "Coffee shop · F5W2+Q2V",
+    "alamat": "-",
+    "url": "https://www.google.com/maps/place/Kongdjie+Coffee+Samarinda/data=!4m7!3m6!1s0x2df67f001a51b29f:0x602c41b67d042e31!8m2!3d-0.5030023!4d117.1500432!16s%2Fg%2F11yy32_mfk!19sChIJn7JRGgB_9i0RMS4EfbZBLGA"
+  },
+  {
+    "nama": "Setiap Hari Coffee",
+    "rating": "4.7",
+    "jumlah_ulasan": "106",
+    "kategori": "Closed · Opens 5.00 pm",
+    "alamat": "Jl. Ir. H. Juanda No.216b",
+    "url": "https://www.google.com/maps/place/Setiap+Hari+Coffee/data=!4m7!3m6!1s0x2df67fe544b95be1:0x20251046c51a20e4!8m2!3d-0.4834431!4d117.1287002!16s%2Fg%2F11kzkj8j5l!19sChIJ4Vu5ROV_9i0R5CAaxUYQJSA"
+  },
+  {
+    "nama": "Spot coffee",
+    "rating": "4.8",
+    "jumlah_ulasan": "77",
+    "kategori": "Closed · Opens 4.00 pm",
+    "alamat": "Jl. Kemangi Blk. BB-LLL No.2",
+    "url": "https://www.google.com/maps/place/Spot+coffee/data=!4m7!3m6!1s0x2df67f6ab13c3063:0x46c80b1b24a272b9!8m2!3d-0.5247511!4d117.1122047!16s%2Fg%2F11j97wjb_y!19sChIJYzA8sWp_9i0RuXKiJBsLyEY"
+  },
+  {
+    "nama": "FLOOR COFFEE COMPANY",
+    "rating": "4.8",
+    "jumlah_ulasan": "74",
+    "kategori": "Open · Closes 10.00 pm",
+    "alamat": "Jl. Ery Suparjan",
+    "url": "https://www.google.com/maps/place/FLOOR+COFFEE+COMPANY/data=!4m7!3m6!1s0x2df679ac4bb138b5:0x7a4ef9692057a1f9!8m2!3d-0.4579907!4d117.1542508!16s%2Fg%2F11spvtv87h!19sChIJtTixS6x59i0R-aFXIGn5Tno"
+  },
+  {
+    "nama": "LOU LOU Cafe n Flowers",
+    "rating": "4.8",
+    "jumlah_ulasan": "236",
+    "kategori": "Open · Closes 9.00 pm",
+    "alamat": "-",
+    "url": "https://www.google.com/maps/place/LOU+LOU+Cafe+n+Flowers/data=!4m7!3m6!1s0x2df67f004f85887b:0x82f3de24fa7b4926!8m2!3d-0.4945714!4d117.1442741!16s%2Fg%2F11xkppdn9g!19sChIJe4iFTwB_9i0RJkl7-iTe84I"
+  },
+  {
+    "nama": "Manna | Gelato",
+    "rating": "4.5",
+    "jumlah_ulasan": "408",
+    "kategori": "Closed · Opens 11.00 am",
+    "alamat": "Jl. Berantas No.51",
+    "url": "https://www.google.com/maps/place/Manna+%7C+Gelato.+Coffee.+Eatery/data=!4m7!3m6!1s0x2df67fbbf9cf1055:0xbbfa92655d4f792!8m2!3d-0.4967713!4d117.1532048!16s%2Fg%2F11vyzszcxf!19sChIJVRDP-bt_9i0RkvfUVSapvws"
+  },
+  {
+    "nama": "Langit Senja",
+    "rating": "4.4",
+    "jumlah_ulasan": "212",
+    "kategori": "Closed · Opens 4.30 pm",
+    "alamat": "Jl. KH. Mas Mansyur",
+    "url": "https://www.google.com/maps/place/Langit+Senja/data=!4m7!3m6!1s0x2df67fc84587202f:0x29b8ec2263c2bbef!8m2!3d-0.5335386!4d117.0967022!16s%2Fg%2F11plh413zd!19sChIJLyCHRch_9i0R77vCYyLsuCk"
+  },
+  {
+    "nama": "Hansha Coffee Brew",
+    "rating": "4.7",
+    "jumlah_ulasan": "22",
+    "kategori": "Dine-in",
+    "alamat": "Jl. D. Maninjau No.25-47",
+    "url": "https://www.google.com/maps/place/Hansha+Coffee+Brew/data=!4m7!3m6!1s0x2df67f65ab05329d:0xe2ac492393c2586a!8m2!3d-0.4925143!4d117.1535!16s%2Fg%2F11p0xqvyz7!19sChIJnTIFq2V_9i0RaljCkyNJrOI"
+  },
+  {
+    "nama": "My Coffee Samarinda",
+    "rating": "4.9",
+    "jumlah_ulasan": "16",
+    "kategori": "Opens soon · 9.00 am",
+    "alamat": "Jl. Gitar No.29",
+    "url": "https://www.google.com/maps/place/My+Coffee+Samarinda/data=!4m7!3m6!1s0x2df67f0078904389:0x4891f40aaa7cecf7!8m2!3d-0.4875828!4d117.1506909!16s%2Fg%2F11ypz1pj6c!19sChIJiUOQeAB_9i0R9-x8qgr0kUg"
+  },
+  {
+    "nama": "Ground",
+    "rating": "4.3",
+    "jumlah_ulasan": "82",
+    "kategori": "Open 24 hours",
+    "alamat": "Jl. Siradj Salman Ruko, Jl. Grand Mahakam Residence Blk. D No.08",
+    "url": "https://www.google.com/maps/place/Ground/data=!4m7!3m6!1s0x2df67f3bea7969cf:0x5c16d3ee4978163e!8m2!3d-0.4917122!4d117.1349722!16s%2Fg%2F11s9vy9rjc!19sChIJz2l56jt_9i0RPhZ4Se7TFlw"
+  },
+  {
+    "nama": "Kopi Lain Hati Meranti Samarinda",
+    "rating": "4.5",
+    "jumlah_ulasan": "333",
+    "kategori": "Closed · Opens 10.00 am",
+    "alamat": "Jl. Meranti No. 70 Gang 2 No.samping, RT.016",
+    "url": "https://www.google.com/maps/place/Kopi+Lain+Hati+Meranti+Samarinda/data=!4m7!3m6!1s0x2df67f00e5a93571:0x712c9563841e6876!8m2!3d-0.5036048!4d117.1184788!16s%2Fg%2F11j7j3pmyd!19sChIJcTWp5QB_9i0RdmgehGOVLHE"
+  },
+  {
+    "nama": "Sober Space",
+    "rating": "4.5",
+    "jumlah_ulasan": "88",
+    "kategori": "Closed · Opens 4.00 pm",
+    "alamat": "Jl. Tekukur No.1",
+    "url": "https://www.google.com/maps/place/Sober+Space/data=!4m7!3m6!1s0x2df67f0003a62081:0x7db3a74eb3ba1244!8m2!3d-0.479984!4d117.1527415!16s%2Fg%2F11vql0ndh6!19sChIJgSCmAwB_9i0RRBK6s06ns30"
+  },
+  {
+    "nama": "MUSTER STATION",
+    "rating": "4.3",
+    "jumlah_ulasan": "297",
+    "kategori": "Open · Closes 12.00 am",
+    "alamat": "Jl. Pangeran Hidayatullah",
+    "url": "https://www.google.com/maps/place/MUSTER+STATION/data=!4m7!3m6!1s0x2df67f9de91c2db1:0x71aa16756afdee04!8m2!3d-0.5023541!4d117.1568172!16s%2Fg%2F11gd98bdzn!19sChIJsS0c6Z1_9i0RBO79anUWqnE"
+  },
+  {
+    "nama": "Point Coffee Slamet Riyadi Samarinda",
+    "rating": "4.2",
+    "jumlah_ulasan": "6",
+    "kategori": "Takeaway",
+    "alamat": "Jl. Slamet Riyadi No.01",
+    "url": "https://www.google.com/maps/place/Point+Coffee+Slamet+Riyadi+Samarinda/data=!4m7!3m6!1s0x2df67fb39751b1dd:0x7020d516dde78a83!8m2!3d-0.5154364!4d117.1166174!16s%2Fg%2F11w7klxbxt!19sChIJ3bFRl7N_9i0Rg4rn3RbVIHA"
+  },
+  {
+    "nama": "FORTHIS HOUSE",
+    "rating": "4.4",
+    "jumlah_ulasan": "190",
+    "kategori": "Dine-in",
+    "alamat": "-",
+    "url": "https://www.google.com/maps/place/FORTHIS+HOUSE/data=!4m7!3m6!1s0x2df67f3b7da32a33:0x897f264e47ef6608!8m2!3d-0.473487!4d117.1441685!16s%2Fg%2F11jyf1rfhj!19sChIJMyqjfTt_9i0RCGbvR04mf4k"
+  },
+  {
+    "nama": "Starbucks",
+    "rating": "4.6",
+    "jumlah_ulasan": "1,268",
+    "kategori": "Iconic coffeehouse chain",
+    "alamat": "-",
+    "url": "https://www.google.com/maps/place/Starbucks/data=!4m7!3m6!1s0x2df67e307b2d0bd7:0xf7524e8a2ccd6a35!8m2!3d-0.5259167!4d117.115433!16s%2Fg%2F11b86hz0_m!19sChIJ1wstezB-9i0RNWrNLIpOUvc"
+  },
+  {
+    "nama": "The Gade Coffee & Gold Samarinda",
+    "rating": "4.6",
+    "jumlah_ulasan": "253",
+    "kategori": "Dine-in",
+    "alamat": "Jl. Basuki Rahmat",
+    "url": "https://www.google.com/maps/place/The+Gade+Coffee+%26+Gold+Samarinda/data=!4m7!3m6!1s0x2df67fad799249e3:0x58333d6a44248042!8m2!3d-0.4961509!4d117.1531608!16s%2Fg%2F11f7th38pf!19sChIJ40mSea1_9i0RQoAkRGo9M1g"
+  },
+  {
+    "nama": "Frozento Cafe Samarinda",
+    "rating": "4.7",
+    "jumlah_ulasan": "967",
+    "kategori": "Closed · Opens 10.00 am",
+    "alamat": "Jl. P Antasari No.26A",
+    "url": "https://www.google.com/maps/place/Frozento+Cafe+Samarinda/data=!4m7!3m6!1s0x2df67f45d1516041:0xbc4185b8ef99a673!8m2!3d-0.4866464!4d117.1268612!16s%2Fg%2F11gjm6spst!19sChIJQWBR0UV_9i0Rc6aZ77iFQbw"
+  },
+  {
+    "nama": "Fortuna Cafe",
+    "rating": "4.5",
+    "jumlah_ulasan": "76",
+    "kategori": "Closed · Opens 10.00 am",
+    "alamat": "Jl. Bung Tomo No.888",
+    "url": "https://www.google.com/maps/place/Fortuna+Cafe/data=!4m7!3m6!1s0x2df67f20d2682d97:0xc6d36afe0a11c821!8m2!3d-0.5172406!4d117.1239095!16s%2Fg%2F11mvxp9sfb!19sChIJly1o0iB_9i0RIcgRCv5q08Y"
+  },
+  {
+    "nama": "Raid coffee",
+    "rating": "4.2",
+    "jumlah_ulasan": "61",
+    "kategori": "Closed · Opens 10.00 am",
+    "alamat": "Jl. Cipto Mangun Kusumo No.88",
+    "url": "https://www.google.com/maps/place/Raid+coffee/data=!4m7!3m6!1s0x2df681d005388869:0x62eff32bcdb11be1!8m2!3d-0.5354051!4d117.1179247!16s%2Fg%2F11s7lsb4mv!19sChIJaYg4BdCB9i0R4RuxzSvz72I"
+  },
+  {
+    "nama": "Freshday The Police Cafe Samarinda",
+    "rating": "5.0",
+    "jumlah_ulasan": "5",
+    "kategori": "Dine-in",
+    "alamat": "-",
+    "url": "https://www.google.com/maps/place/Freshday+The+Police+Cafe+Samarinda/data=!4m7!3m6!1s0x2df67f7aaf0891f9:0xfa1aa4c4c7ce0a7e!8m2!3d-0.5163172!4d117.1153102!16s%2Fg%2F11mw4wb1_5!19sChIJ-ZEIr3p_9i0RfgrOx8SkGvo"
+  },
+  {
+    "nama": "Kopiria Kartini",
+    "rating": "4.4",
+    "jumlah_ulasan": "755",
+    "kategori": "Closed · Opens 10.00 am",
+    "alamat": "-",
+    "url": "https://www.google.com/maps/place/Kopiria+Kartini/data=!4m7!3m6!1s0x2df67fe89ab0b99d:0x8effa167d67c4a43!8m2!3d-0.4960402!4d117.156453!16s%2Fg%2F11h51zyb4j!19sChIJnbmwmuh_9i0RQ0p81meh_44"
+  },
+  {
+    "nama": "Kedai kopi kulo teuku umar samarinda",
+    "rating": "4.5",
+    "jumlah_ulasan": "90",
+    "kategori": "Closed · Opens 10.15 am",
+    "alamat": "Jl. Teuku Umar No.28 A",
+    "url": "https://www.google.com/maps/place/Kedai+kopi+kulo+teuku+umar+samarinda/data=!4m7!3m6!1s0x2df67fba791f4aa3:0xe6d7f21bf7327118!8m2!3d-0.5044171!4d117.110466!16s%2Fg%2F11l8p2lmht!19sChIJo0ofebp_9i0RGHEy9xvy1-Y"
+  },
+  {
+    "nama": "KLINIK KOPI X AUBRY (Juanda) 24 Jam",
+    "rating": "4.2",
+    "jumlah_ulasan": "364",
+    "kategori": "Open 24 hours",
+    "alamat": "-",
+    "url": "https://www.google.com/maps/place/KLINIK+KOPI+X+AUBRY+%28Juanda%29+24+Jam/data=!4m7!3m6!1s0x2df67faba114125d:0x68a65b84c4637f06!8m2!3d-0.4776263!4d117.1339473!16s%2Fg%2F11hlbfpjg4!19sChIJXRIUoat_9i0RBn9jxIRbpmg"
+  },
+  {
+    "nama": "Insomnia coffee",
+    "rating": "4.6",
+    "jumlah_ulasan": "185",
+    "kategori": "Closed · Opens 12.00 pm",
+    "alamat": "-",
+    "url": "https://www.google.com/maps/place/Insomnia+coffee/data=!4m7!3m6!1s0x2df67f0fcd421017:0xc232e9445fceda10!8m2!3d-0.4869022!4d117.1326507!16s%2Fg%2F11h4mmnjn4!19sChIJFxBCzQ9_9i0RENrOX0TpMsI"
+  },
+  {
+    "nama": "GOFFEÉ Doughnuts & Coffee, Samarinda",
+    "rating": "4.5",
+    "jumlah_ulasan": "246",
+    "kategori": "Closed · Opens 10.00 am",
+    "alamat": "Jl. Hasan Basri No.88B",
+    "url": "https://www.google.com/maps/place/GOFFE%C3%89+Doughnuts+%26+Coffee,+Samarinda/data=!4m7!3m6!1s0x2df67fe0e9da3f7f:0xf1f3a2cfc5340109!8m2!3d-0.480044!4d117.153575!16s%2Fg%2F11t5_z9shn!19sChIJfz_a6eB_9i0RCQE0xc-i8_E"
+  },
+  {
+    "nama": "Blackhouse coffee",
+    "rating": "4.5",
+    "jumlah_ulasan": "53",
+    "kategori": "Closed · Opens 7.00 pm",
+    "alamat": "Jl. Cipto Mangun Kusumo",
+    "url": "https://www.google.com/maps/place/Blackhouse+coffee/data=!4m7!3m6!1s0x2df67e2d91fecd73:0x8beedca81b8c5f9d!8m2!3d-0.5275458!4d117.1224966!16s%2Fg%2F11dftr4kg0!19sChIJc83-kS1-9i0RnV-MG6jc7os"
+  },
+  {
+    "nama": "Sidehouse Coffee Samarinda",
+    "rating": "5.0",
+    "jumlah_ulasan": "6",
+    "kategori": "Open · Closes 11.00 pm",
+    "alamat": "Jl. Milono No.01",
+    "url": "https://www.google.com/maps/place/Sidehouse+Coffee+Samarinda/data=!4m7!3m6!1s0x2df67f1b5b333201:0xf284c2c01e8b7060!8m2!3d-0.4973401!4d117.1430215!16s%2Fg%2F11xtwtpxbn!19sChIJATIzWxt_9i0RYHCLHsDChPI"
+  },
+  {
+    "nama": "OMA PICNIC RESTO & CAFE",
+    "rating": "4.6",
+    "jumlah_ulasan": "325",
+    "kategori": "Closed · Opens 10.00 am",
+    "alamat": "Jl. Teuku Umar",
+    "url": "https://www.google.com/maps/place/OMA+PICNIC+RESTO+%26+CAFE/data=!4m7!3m6!1s0x2df67f6588cac409:0x6ffee24089364f3c!8m2!3d-0.5108001!4d117.1076125!16s%2Fg%2F11y84h4ngc!19sChIJCcTKiGV_9i0RPE82iUDi_m8"
+  },
+  {
+    "nama": "Hayyu Coffee & Bakery",
+    "rating": "4.7",
+    "jumlah_ulasan": "219",
+    "kategori": "Opens soon · 9.00 am",
+    "alamat": "Jl. M. Yamin No.38",
+    "url": "https://www.google.com/maps/place/Hayyu+Coffee+%26+Bakery/data=!4m7!3m6!1s0x2df6793bfcc43b07:0xd5ce08fc4194320a!8m2!3d-0.4654583!4d117.1489765!16s%2Fg%2F11qqv20g32!19sChIJBzvE_Dt59i0RCjKUQfwIztU"
+  },
+  {
+    "nama": "Kedai Kopi Kulo Grand Mahakam, Samarinda",
+    "rating": "4.6",
+    "jumlah_ulasan": "111",
+    "kategori": "Opens soon · 9.00 am",
+    "alamat": "Kompleks Ruko, Jl. Siradj Salman Jl. Grand Mahakam Residence No.D-02",
+    "url": "https://www.google.com/maps/place/Kedai+Kopi+Kulo+Grand+Mahakam,+Samarinda/data=!4m7!3m6!1s0x2df67f3cc5647027:0x5e38bf1ac78b544!8m2!3d-0.4917807!4d117.1352075!16s%2Fg%2F11m42q4fx5!19sChIJJ3BkxTx_9i0RRLV4rPGL4wU"
+  },
+  {
+    "nama": "HOPE COFFEE SAMARINDA",
+    "rating": "4.7",
+    "jumlah_ulasan": "63",
+    "kategori": "Dine-in",
+    "alamat": "Jl. H. A. M. M. Rifaddin",
+    "url": "https://www.google.com/maps/place/HOPE+COFFEE+SAMARINDA/data=!4m7!3m6!1s0x2df681b72104c947:0xf9b485eca526b960!8m2!3d-0.556602!4d117.1131373!16s%2Fg%2F11w9cmc1fq!19sChIJR8kEIbeB9i0RYLkmpeyFtPk"
+  },
+  {
+    "nama": "Braga Smr",
+    "rating": "4.5",
+    "jumlah_ulasan": "102",
+    "kategori": "Closed · Opens 10.00 am",
+    "alamat": "Jl. Kyai Hj. Awahabsyahranie No.3",
+    "url": "https://www.google.com/maps/place/Braga+Smr/data=!4m7!3m6!1s0x2df67f00687b1759:0xca8d7022827579a9!8m2!3d-0.4699538!4d117.1379586!16s%2Fg%2F11yfjvz2vt!19sChIJWRd7aAB_9i0RqXl1giJwjco"
+  },
+  {
+    "nama": "Elite's Coffee",
+    "rating": "4.5",
+    "jumlah_ulasan": "56",
+    "kategori": "Closed · Opens 5.00 pm",
+    "alamat": "Jl. AW. Syahranie 4",
+    "url": "https://www.google.com/maps/place/Elite%27s+Coffee/data=!4m7!3m6!1s0x2df681661cbae689:0xc7318c8e63e1cf57!8m2!3d-0.4497136!4d117.1494989!16s%2Fg%2F11mpcw4zxp!19sChIJiea6HGaB9i0RV8_hY46MMcc"
+  },
+  {
+    "nama": "H&M Coffee Shop",
+    "rating": "4.4",
+    "jumlah_ulasan": "137",
+    "kategori": "Closed · Opens 5.00 pm",
+    "alamat": "-",
+    "url": "https://www.google.com/maps/place/H%26M+Coffee+Shop/data=!4m7!3m6!1s0x2df67fb3df500bcf:0xe54867d9c401dd2!8m2!3d-0.5128703!4d117.1324679!16s%2Fg%2F11g0794_xp!19sChIJzwtQ37N_9i0R0h1AnH2GVA4"
+  },
+  {
+    "nama": "MoveOnCafe",
+    "rating": "4.2",
+    "jumlah_ulasan": "112",
+    "kategori": "Dine-in",
+    "alamat": "Jl. Mawar No.S-15, RT.05",
+    "url": "https://www.google.com/maps/place/MoveOnCafe/data=!4m7!3m6!1s0x2df67f10035aeae3:0x86e52e64829359d3!8m2!3d-0.4945189!4d117.1448448!16s%2Fg%2F11vzbbb_fl!19sChIJ4-paAxB_9i0R01mTgmQu5YY"
+  },
+  {
+    "nama": "KOPI Pian",
+    "rating": "4.8",
+    "jumlah_ulasan": "38",
+    "kategori": "Closed · Opens 10.00 am",
+    "alamat": "Jl. A.M. Sangaji No.138B",
+    "url": "https://www.google.com/maps/place/KOPI+Pian/data=!4m7!3m6!1s0x2df67f56f832f09f:0x619a3e37ea7cf988!8m2!3d-0.4877655!4d117.1527493!16s%2Fg%2F11t9pfypv1!19sChIJn_Ay-FZ_9i0RiPl86jc-mmE"
+  },
+  {
+    "nama": "De Forte Coffee",
+    "rating": "4.3",
+    "jumlah_ulasan": "44",
+    "kategori": "Closed · Opens 3.00 pm",
+    "alamat": "Jl. Gamelan No.28",
+    "url": "https://www.google.com/maps/place/De+Forte+Coffee/data=!4m7!3m6!1s0x2df67fb15f5223e3:0x8b6128455351f8cb!8m2!3d-0.4866664!4d117.1506094!16s%2Fg%2F11l_gnrqyd!19sChIJ4yNSX7F_9i0Ry_hRU0UoYYs"
+  },
+  {
+    "nama": "Kopa Kopi Samarinda",
+    "rating": "4.7",
+    "jumlah_ulasan": "28",
+    "kategori": "Open · Closes 11.00 am",
+    "alamat": "Jl. Biola No.27",
+    "url": "https://www.google.com/maps/place/Kopa+Kopi+Samarinda/data=!4m7!3m6!1s0x2df67fa7a94920f5:0x215fb44b3c329b92!8m2!3d-0.4878254!4d117.1506772!16s%2Fg%2F11fwj0slx0!19sChIJ9SBJqad_9i0RkpsyPEu0XyE"
+  },
+  {
+    "nama": "Major Coffee Juanda",
+    "rating": "4.4",
+    "jumlah_ulasan": "34",
+    "kategori": "Closed · Opens 10.00 am",
+    "alamat": "Jl. Ir. H. Juanda",
+    "url": "https://www.google.com/maps/place/Major+Coffee+Juanda/data=!4m7!3m6!1s0x2df67f61a5975d59:0xfffcd326c504fcba!8m2!3d-0.4743215!4d117.1384153!16s%2Fg%2F11sgk304vs!19sChIJWV2XpWF_9i0RuvwExSbT_P8"
+  },
+  {
+    "nama": "Giras Kitchen & Coffee",
+    "rating": "4.4",
+    "jumlah_ulasan": "270",
+    "kategori": "Closed · Opens 3.00 pm",
+    "alamat": "Jl. Siradj Salman No.1A",
+    "url": "https://www.google.com/maps/place/Giras+Kitchen+%26+Coffee/data=!4m7!3m6!1s0x2df67f1aebfe711d:0x2c588b78ef80b630!8m2!3d-0.4914075!4d117.1380346!16s%2Fg%2F11gbxgmr5s!19sChIJHXH-6xp_9i0RMLaA73iLWCw"
+  },
+  {
+    "nama": "TBK CAFE SAMARINDA",
+    "rating": "5.0",
+    "jumlah_ulasan": "8",
+    "kategori": "Open · Closes 12.00 pm",
+    "alamat": "-",
+    "url": "https://www.google.com/maps/place/TBK+CAFE+SAMARINDA/data=!4m7!3m6!1s0x2df67fbd73c7c83f:0xe8a3f965429b899!8m2!3d-0.4779963!4d117.1633831!16s%2Fg%2F11pvm66h34!19sChIJP8jHc71_9i0RmbgpVJY_ig4"
+  },
+  {
+    "nama": "Kopi Lain Hati Muhammad Yamin Samarinda",
+    "rating": "4.4",
+    "jumlah_ulasan": "82",
+    "kategori": "Open · Closes 11.00 pm",
+    "alamat": "Jl. M. Yamin No.80 Kel",
+    "url": "https://www.google.com/maps/place/Kopi+Lain+Hati+Muhammad+Yamin+Samarinda/data=!4m7!3m6!1s0x2df679c7beec4803:0x6ae22a7fa77f278c!8m2!3d-0.4640457!4d117.1499911!16s%2Fg%2F11jp1393zq!19sChIJA0jsvsd59i0RjCd_p38q4mo"
+  },
+  {
+    "nama": "Onema Coffee",
+    "rating": "4.7",
+    "jumlah_ulasan": "30",
+    "kategori": "Opens soon · 9.00 am",
+    "alamat": "Jl. Siti Aisyah No.40",
+    "url": "https://www.google.com/maps/place/Onema+Coffee/data=!4m7!3m6!1s0x2df67fc63453aac5:0x7652ee8ce8254df8!8m2!3d-0.4984007!4d117.133441!16s%2Fg%2F11pz16cqdw!19sChIJxapTNMZ_9i0R-E0l6IzuUnY"
+  },
+  {
+    "nama": "Taki Coffee Samarinda",
+    "rating": "4.7",
+    "jumlah_ulasan": "14",
+    "kategori": "Dine-in",
+    "alamat": "-",
+    "url": "https://www.google.com/maps/place/Taki+Coffee+Samarinda/data=!4m7!3m6!1s0x2df67fc1055e2aff:0x7e538f7d2d3df78b!8m2!3d-0.4920479!4d117.1349812!16s%2Fg%2F11twmj6f9n!19sChIJ_ypeBcF_9i0Ri_c9LX2PU34"
+  },
+  {
+    "nama": "Coffee-in Samarinda",
+    "rating": "4.1",
+    "jumlah_ulasan": "12",
+    "kategori": "Coffee shop · G46G+JJW",
+    "alamat": "-",
+    "url": "https://www.google.com/maps/place/Coffee-in+Samarinda/data=!4m7!3m6!1s0x2df67fab9b18f5d9:0x737c750484784393!8m2!3d-0.4886156!4d117.1263154!16s%2Fg%2F11j_0546n8!19sChIJ2fUYm6t_9i0Rk0N4hAR1fHM"
+  },
+  {
+    "nama": "Blasteran Cafe",
+    "rating": "4.4",
+    "jumlah_ulasan": "558",
+    "kategori": "Cafe · ",
+    "alamat": "-",
+    "url": "https://www.google.com/maps/place/Blasteran+Cafe/data=!4m7!3m6!1s0x2df68081ba732a75:0x8c7a62863f29ed67!8m2!3d-0.5367166!4d117.1227641!16s%2Fg%2F11f3bz6kh_!19sChIJdSpzuoGA9i0RZ-0pP4Zieow"
+  },
+  {
+    "nama": "Excelso Juanda Samarinda",
+    "rating": "4.5",
+    "jumlah_ulasan": "427",
+    "kategori": "Closed · Opens 10.00 am",
+    "alamat": "Jl. Ir H Juanda",
+    "url": "https://www.google.com/maps/place/Excelso+Juanda+Samarinda/data=!4m7!3m6!1s0x2df67f3965a81b7b:0x6feeaa2c692dc9f1!8m2!3d-0.4816055!4d117.13345!16s%2Fg%2F11j5z84vb_!19sChIJexuoZTl_9i0R8cktaSyq7m8"
+  },
+  {
+    "nama": "Joint Kopi Samarinda",
+    "rating": "4.5",
+    "jumlah_ulasan": "100",
+    "kategori": "Closed · Opens 10.00 am",
+    "alamat": "Jl. Niaga Selatan No.44 Blok A",
+    "url": "https://www.google.com/maps/place/Joint+Kopi+Samarinda/data=!4m7!3m6!1s0x2df67f31fc93dcf3:0x3327d007d113aea3!8m2!3d-0.5034252!4d117.1497645!16s%2Fg%2F11f2sfky1t!19sChIJ89yT_DF_9i0Ro64T0QfQJzM"
+  },
+  {
+    "nama": "Kopi Kenangan - Big Mall Samarinda",
+    "rating": "4.2",
+    "jumlah_ulasan": "77",
+    "kategori": "Closed · Opens 10.00 am",
+    "alamat": "Jl. Untung Suropati No.08",
+    "url": "https://www.google.com/maps/place/Kopi+Kenangan+-+Big+Mall+Samarinda/data=!4m7!3m6!1s0x2df67f09da44913d:0x68d7f0440758e9!8m2!3d-0.5259561!4d117.1157055!16s%2Fg%2F11rxzg9sln!19sChIJPZFE2gl_9i0R6VgHRPDXaAA"
+  },
+  {
+    "nama": "KONUS - Kedai Kopi Nusantara",
+    "rating": "4.5",
+    "jumlah_ulasan": "728",
+    "kategori": "Opens soon · 9.00 am",
+    "alamat": "Jl. Ir. H. Juanda No.25",
+    "url": "https://www.google.com/maps/place/KONUS+-+Kedai+Kopi+Nusantara/data=!4m7!3m6!1s0x2df67f2198d622dd:0x5c50799bb67972!8m2!3d-0.4828111!4d117.1314218!16s%2Fg%2F11cn5n_18m!19sChIJ3SLWmCF_9i0Rcnm2m3lQXAA"
+  },
+  {
+    "nama": "Kopi Kenangan - Samarinda Central Plaza",
+    "rating": "4.5",
+    "jumlah_ulasan": "78",
+    "kategori": "Open · Closes 11.00 pm",
+    "alamat": "Jl. P. Irian No.1",
+    "url": "https://www.google.com/maps/place/Kopi+Kenangan+-+Samarinda+Central+Plaza/data=!4m7!3m6!1s0x2df67fb3844ad5a1:0xb7d71e9e71f1f10e!8m2!3d-0.5035312!4d117.1552656!16s%2Fg%2F11sy716pb1!19sChIJodVKhLN_9i0RDvHxcZ4e17c"
+  },
+  {
+    "nama": "Yen's Delight Coffe Pastry & Resto",
+    "rating": "4.4",
+    "jumlah_ulasan": "2,037",
+    "kategori": "Closed · Opens 10.00 am",
+    "alamat": "Jl. Ir. H. Juanda No.6",
+    "url": "https://www.google.com/maps/place/Yen%27s+Delight+Coffe+Pastry+%26+Resto/data=!4m7!3m6!1s0x2df67f23c2dfd125:0xd34a94721c90d750!8m2!3d-0.4789005!4d117.1353507!16s%2Fg%2F11b6dsbthj!19sChIJJdHfwiN_9i0RUNeQHHKUStM"
+  },
+  {
+    "nama": "semayang park",
+    "rating": "4.4",
+    "jumlah_ulasan": "77",
+    "kategori": "Closed · Opens 3.30 pm",
+    "alamat": "Jl. Danau Semayang No.81",
+    "url": "https://www.google.com/maps/place/semayang+park/data=!4m7!3m6!1s0x2df67f69982141b5:0x6d9798f72a51c85a!8m2!3d-0.492998!4d117.152415!16s%2Fg%2F11s84gsw9q!19sChIJtUEhmGl_9i0RWshRKveYl20"
+  },
+  {
+    "nama": "Kael Espresso",
+    "rating": "4.7",
+    "jumlah_ulasan": "380",
+    "kategori": "Closed · Opens 3.00 pm",
+    "alamat": "-",
+    "url": "https://www.google.com/maps/place/Kael+Espresso/data=!4m7!3m6!1s0x2df67f66822f3181:0x4f65c7cffabbfdfb!8m2!3d-0.495039!4d117.1458331!16s%2Fg%2F11ffhbrhqq!19sChIJgTEvgmZ_9i0R-_27-s_HZU8"
+  },
+  {
+    "nama": "Fore Coffee - City Centrum Mall, Samarinda",
+    "rating": "4.1",
+    "jumlah_ulasan": "192",
+    "kategori": "Opens soon · 9.00 am",
+    "alamat": "Jl. Mulawarman No.171",
+    "url": "https://www.google.com/maps/place/Fore+Coffee+-+City+Centrum+Mall,+Samarinda/data=!4m7!3m6!1s0x2df67f8a3fe68315:0xef1c25e3383a5a03!8m2!3d-0.5032413!4d117.1519719!16s%2Fg%2F11tf1hg5f5!19sChIJFYPmP4p_9i0RA1o6OOMlHO8"
+  },
+  {
+    "nama": "De Sultan Coffee Shop - Samarinda",
+    "rating": "4.8",
+    "jumlah_ulasan": "16",
+    "kategori": "Opens soon · 9.00 am",
+    "alamat": "Jl. Ir. H. Juanda No.91",
+    "url": "https://www.google.com/maps/place/De+Sultan+Coffee+Shop+-+Samarinda/data=!4m7!3m6!1s0x2df67f9b9ddd5353:0x7d142d642311001!8m2!3d-0.4815634!4d117.1335962!16s%2Fg%2F11mtm8_vsd!19sChIJU1PdnZt_9i0RARAxQtZC0Qc"
+  },
+  {
+    "nama": "Kopi Kenangan - SPBU Pertamina COCO 61",
+    "rating": "4.4",
+    "jumlah_ulasan": "63",
+    "kategori": "Dine-in",
+    "alamat": "-",
+    "url": "https://www.google.com/maps/place/Kopi+Kenangan+-+SPBU+Pertamina+COCO+61.751.01+Kesuma+Bangsa+Samarinda+%28Container%29/data=!4m7!3m6!1s0x2df67fe02f5406cf:0x12e72b291633bd4c!8m2!3d-0.4899575!4d117.1465114!16s%2Fg%2F11scghzdm6!19sChIJzwZUL-B_9i0RTL0zFikr5xI"
+  },
+  {
+    "nama": "Excelso Big Mall",
+    "rating": "4.1",
+    "jumlah_ulasan": "206",
+    "kategori": "Closed · Opens 10.00 am",
+    "alamat": "-",
+    "url": "https://www.google.com/maps/place/Excelso+Big+Mall/data=!4m7!3m6!1s0x2df67e2504d3b163:0x274d3f658502c77c!8m2!3d-0.5259326!4d117.1154479!16s%2Fg%2F11hbgbt8jj!19sChIJY7HTBCV-9i0RfMcChWU_TSc"
+  },
+  {
+    "nama": "Seqata Coffee Samarinda",
+    "rating": "4.8",
+    "jumlah_ulasan": "4",
+    "kategori": "Closed · Opens 10.30 am",
+    "alamat": "Jl. Tengkawang No.25",
+    "url": "https://www.google.com/maps/place/Seqata+Coffee+Samarinda/data=!4m7!3m6!1s0x2df67f34560ac2f7:0xaabb80f3c938ca07!8m2!3d-0.5021812!4d117.1154191!16s%2Fg%2F11qn8xtwyh!19sChIJ98IKVjR_9i0RB8o4yfOAu6o"
+  },
+  {
+    "nama": "Koga Coffee",
+    "rating": "4.0",
+    "jumlah_ulasan": "75",
+    "kategori": "Closed · Opens 10.00 am",
+    "alamat": "-",
+    "url": "https://www.google.com/maps/place/Koga+Coffee/data=!4m7!3m6!1s0x2df6790018bf4579:0x8cd53def2ce5964c!8m2!3d-0.4588677!4d117.1395732!16s%2Fg%2F11ybhcys9y!19sChIJeUW_GAB59i0RTJblLO891Yw"
+  },
+  {
+    "nama": "Kopi Lain Hati Siradj Salman Samarinda",
+    "rating": "4.5",
+    "jumlah_ulasan": "64",
+    "kategori": "Closed · Opens 10.00 am",
+    "alamat": "Jl. Grand Mahakam Residence No.B.09",
+    "url": "https://www.google.com/maps/place/Kopi+Lain+Hati+Siradj+Salman+Samarinda/data=!4m7!3m6!1s0x2df67f5a5ccd14cf:0x9dc1cceadabb1e0a!8m2!3d-0.4919597!4d117.1349397!16s%2Fg%2F11lllv7g7v!19sChIJzxTNXFp_9i0RCh672urMwZ0"
+  },
+  {
+    "nama": "KopiLoa Indonesia",
+    "rating": "4.9",
+    "jumlah_ulasan": "117",
+    "kategori": "Closed · Opens 10.00 am",
+    "alamat": "Jl. Anggur No.12",
+    "url": "https://www.google.com/maps/place/KopiLoa+Indonesia/data=!4m7!3m6!1s0x2df67f2f7312687d:0xbd2b51d7d1c2295!8m2!3d-0.4815528!4d117.1406699!16s%2Fg%2F11jjjkxgvl!19sChIJfWgScy9_9i0RlSIcfR210gs"
+  },
+  {
+    "nama": "Kopi Kenangan - Ruko M Yamin Samarinda",
+    "rating": "4.3",
+    "jumlah_ulasan": "414",
+    "kategori": "Open 24 hours",
+    "alamat": "-",
+    "url": "https://www.google.com/maps/place/Kopi+Kenangan+-+Ruko+M+Yamin+Samarinda/data=!4m7!3m6!1s0x2df6799ee5946159:0xa78c88989f8460b8!8m2!3d-0.4673801!4d117.1481915!16s%2Fg%2F11spwz233r!19sChIJWWGU5Z559i0RuGCEn5iIjKc"
+  },
+  {
+    "nama": "Nerasa",
+    "rating": "4.4",
+    "jumlah_ulasan": "129",
+    "kategori": "Open · Closes 11.00 pm",
+    "alamat": "Jl. Wijaya Kusuma",
+    "url": "https://www.google.com/maps/place/Nerasa/data=!4m7!3m6!1s0x2df67f258de4fcad:0x27d603806a4541fd!8m2!3d-0.4885355!4d117.1326365!16s%2Fg%2F11xmfb96y4!19sChIJrfzkjSV_9i0R_UFFaoAD1ic"
+  },
+  {
+    "nama": "SEDULUR COFFEE & EATERY",
+    "rating": "4.8",
+    "jumlah_ulasan": "38",
+    "kategori": "Coffee shop · F4RW+42V",
+    "alamat": "-",
+    "url": "https://www.google.com/maps/place/SEDULUR+COFFEE+%26+EATERY/data=!4m7!3m6!1s0x2df67f200809dc2b:0x89c5256a3306854b!8m2!3d-0.509641!4d117.1450518!16s%2Fg%2F11j5dl3bm2!19sChIJK9wJCCB_9i0RS4UGM2olxYk"
+  },
+  {
+    "nama": "Burger bangor & Markhas Coffee Camar Samarinda",
+    "rating": "4.6",
+    "jumlah_ulasan": "144",
+    "kategori": "Closed · Opens 10.00 am",
+    "alamat": "No.73BandaraKec, Jl. Camar No.73",
+    "url": "https://www.google.com/maps/place/Burger+bangor+%26+Markhas+Coffee+Camar+Samarinda/data=!4m7!3m6!1s0x2df67f8332521da1:0x77bb0147853d9aa4!8m2!3d-0.4818797!4d117.1537429!16s%2Fg%2F11s93q0_g6!19sChIJoR1SMoN_9i0RpJo9hUcBu3c"
   }
 ]
